@@ -14,7 +14,7 @@
 
 - Clone the project
 - Edit `.env` and set your database connection details
-- `composer intall`
+- `composer install`
 - `php artisan key:generate`
 - `php artisan migrate or php artisan migrate --seed`
 - `npm install`
