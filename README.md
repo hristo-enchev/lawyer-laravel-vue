@@ -6,7 +6,6 @@
 
 - Laravel 7
 - Vue + VueRouter + Vuex
-- Login, register, email verification and password reset
 - Authentication with Sanctum - Sanctum uses Laravel's built-in cookie based session authentication services. This provides the benefits of CSRF protection, session authentication, as well as protects against leakage of the authentication credentials via XSS.
 - Bootstrap 4
 
